@@ -7,7 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-My name is Jojy Thevara and I am a Grade 11 students passionate about science and technology.
+My name is Jojy Thevara and I am a highschooler who is passionate about science and technology.
 
 ---
 *Update this page by editing `index.md` in your repository.*
