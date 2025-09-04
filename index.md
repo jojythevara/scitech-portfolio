@@ -1,4 +1,4 @@
-# Hi, I'm <Jojy Thevara>
+# Hi, I'm Jojy Thevara
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
