@@ -1,13 +1,13 @@
-# Hi, I'm <Your Name>
+# Hi, I'm <Jojy Thevara>
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+- 🔧 Project 1: I created a model of a Tesla Cybertruck in a 3D CAD program called Onshape.
+- 🧠 Concept I learned: I learned how to create appealing 3D models while focusing on efficiency. 
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Jojy Thevara and I am a Grade 11 students passionate about science and technology.
 
 ---
 *Update this page by editing `index.md` in your repository.*
