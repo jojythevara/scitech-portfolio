@@ -1,5 +1,5 @@
 # Friday:
-**[Go back](/posts/blog.md)**
+**[Go back](blog.md)**
 
 a. I used these buffs for explosion, I implemented them by making it so the player would become very big for one second before turning back to normal.
 
