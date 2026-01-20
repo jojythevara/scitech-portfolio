@@ -1,5 +1,5 @@
 # Wednesday:
-**[Go back](/posts/blog.md)**
+**[Go back](blog.md)**
 
 a. Today, I did the timer. I used variable and tracking data to create a variety of variables for the timer, and time-related variables. 
 
