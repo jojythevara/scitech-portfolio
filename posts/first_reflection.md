@@ -1,6 +1,6 @@
 # Daily Blog
 
-- **[Monday](/firstBlog.md)**
+- **[Monday](/posts/firstBlog.md)**
 - **[Tuesday](/secondBlog.md)**
 - **[Wednesday](/thirdBlog.md)**
 - **[Thursday](/fourthBlog.md)**
