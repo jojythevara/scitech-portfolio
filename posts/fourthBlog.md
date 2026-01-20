@@ -1,5 +1,5 @@
 # Thursday:
-**[Go back](/posts/blog.md)**
+**[Go back](blog.md)**
 
 a. Today, I used a selection structure for the application of different power ups within our game. 
 
