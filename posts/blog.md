@@ -1,6 +1,6 @@
 # Daily Blog
 
-- **[Monday](./appl/firstBlog.md)**
+- **[Monday](./posts/posts/firstBlog.md)**
 - **[Tuesday](secondBlog.md)**
 - **[Wednesday](thirdBlog.md)**
 - **[Thursday](fourthBlog.md)**
