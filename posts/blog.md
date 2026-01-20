@@ -1,9 +1,9 @@
 # Daily Blog
 
-- **[Monday](./posts/firstBlog.md)**
-- **[Tuesday](./posts/secondBlog.md)**
-- **[Wednesday](./posts/thirdBlog.md)**
-- **[Thursday](./posts/fourthBlog.md)**
-- **[Friday](./posts/fifthBlog.md)**
+- **[Monday](firstBlog.md)**
+- **[Tuesday](secondBlog.md)**
+- **[Wednesday](thirdBlog.md)**
+- **[Thursday](fourthBlog.md)**
+- **[Friday](fifthBlog.md)**
 
 **[Go back](/index.md)**
