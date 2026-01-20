@@ -6,4 +6,4 @@
 - **[Thursday](./fourthBlog.md)**
 - **[Friday](./fifthBlog.md)**
 
-**[Go back](/scitech-portfolio/)**
+**[Go back](/index.md)**
