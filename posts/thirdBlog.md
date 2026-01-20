@@ -1,4 +1,6 @@
 # Wednesday:
+**[Go back](/posts/blog.md)**
+
 a. Today, I did the timer. I used variable and tracking data to create a variety of variables for the timer, and time-related variables. 
 
 b. I used it before setup, in a separate class. I created a variable called countdownTime for the constantly ticking timer. Additionally, I also created variable called s, which was meant to store the countdownTime in a string. The variable timer was used so that countdownTime would go down every 1000 milliseconds or one second. 
