@@ -1,4 +1,6 @@
 # Monday:
+**[Go back](/posts/blog.md)**
+
 a. I used selection today to control the prompts for starting the game. I used an if statement to check whether the variable “gameOn” was true. gameOn would only become true if the user clicked ENTER, specifically on the start screen. I also used selection to check if the player had finished selecting their character by clicking SPACE. 
 
 b. I implemented it this way because if I didn't the player wouldn’t be able to access the character selection or the actual game. 
