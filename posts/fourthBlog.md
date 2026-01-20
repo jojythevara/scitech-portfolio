@@ -1,4 +1,6 @@
 # Thursday:
+**[Go back](/posts/blog.md)**
+
 a. Today, I used a selection structure for the application of different power ups within our game. 
 
 b. This involved spawning three random powerups, every 10 seconds, resetting the effect every 6, adding the individual effects, and applying them seperately to the players. The different power ups were size, speed, and explosion. Size increases the player's size, speed increases the player's speed, and explosion creates a large area of painted space.
