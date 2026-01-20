@@ -6,4 +6,4 @@
 - **[Thursday](./fourthBlog.md)**
 - **[Friday](./fifthBlog.md)**
 
-**[Go back](index.md)**
+**[Go back](../index.md)**
