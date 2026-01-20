@@ -1,4 +1,5 @@
 # Tuesday:
+**[Go back](/posts/blog.md)**
 
 a. Today, I used variable and data tracking for the use of gameOn, characterChosen, and score. I used the variables to properly display the GUI in the game. 
 
