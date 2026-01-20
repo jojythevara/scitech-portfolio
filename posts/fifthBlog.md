@@ -1,5 +1,6 @@
 # Friday:
 **[Go back](/posts/blog.md)**
+
 a. I used these buffs for explosion, I implemented them by making it so the player would become very big for one second before turning back to normal.
 
 b. I used the variables in the powerUp function to check for collision with an explosion power up and then use the variables to apply the explosion, specifically by setting p1Size to explosionSize for one second, and set booleans for whether the power up was exploding or not.
