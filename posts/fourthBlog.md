@@ -3,7 +3,7 @@ a. Today, I used a selection structure for the application of different power up
 
 b. This involved spawning three random powerups, every 10 seconds, resetting the effect every 6, adding the individual effects, and applying them seperately to the players. The different power ups were size, speed, and explosion. Size increases the player's size, speed increases the player's speed, and explosion creates a large area of painted space.
 
-3. The most diffucult part was making sure the power-ups applied seperately to each player. I solved this by adding a parameter in apply powers, that asked which player had collided with the object. 
+c. The most diffucult part was making sure the power-ups applied seperately to each player. I solved this by adding a parameter in apply powers, that asked which player had collided with the object. 
 
 void powerUp () {
   if (millis() - lastSpawnTime >= spawnInterval) {
